@@ -1,14 +1,28 @@
-html{
-    scroll-behavior: smooth;
+html {
+  scroll-behavior: smooth;
 }
-.heading{
-    color:red;
-}
-
-.paris-paragraph{
-    background-color: beige;
+.heading {
+  color: red;
 }
 
-#london-heading{
-    background-color: pink;
+.paris-paragraph {
+  background-color: beige;
+}
+
+#london-heading {
+  background-color: pink;
+}
+
+span {
+  padding: 0 5px;
+  border-top: 2px black solid;
+  border-bottom: 4px gray solid;
+  /* padding-left: 5px;
+  padding-right: 5px; */
+  /* padding: 0 5px 0 5px; */
+  /* padding: 0 5px 0 ; */
+}
+.para-with-span {
+margin: 5px;
+border: 10px lightgreen ridge;
 }
